@@ -1,0 +1,39 @@
+MODULE-1
+
+1. HTML
+2. CSS
+flex,grid,font-size,color,background, margin, padding,border, positon, float,media-query দিয়ে কিছুটা রেসপন্সিভ শিখে, hover,before,after,transform,animation
+
+3. BOOTSTRAP { Frame Work}
+ ১০ দিনের বেশি সময় দিবেননা এখানে। আর এটা শিখে নিলে প্রয়োজনে অন্যান্য ফ্রেমওয়ার্ক শিখে নিতে পারবেন। এটা নিয়ে এখন আর কথা নয় অনেক রাস্তা বাকিhttps://getbootstrap.com/.../getting-started/introduction/।
+ 
+4. TAILWIND
+
+MODULE-2 
+
+1. JAVASRRIPT
+2. DOM (Document Object Model)
+3. ES6 , API 
+4. BROWSER API, DEVTOOL, DEBUGGING
+
+MODULE-3 
+
+1. REACT 
+2. REACT ROUTER, FIRE BASE, 
+react app install করা জেনে নিন, component তৈরি করা এবং ব্যবহার করা শিখুন প্রথমে functional component দিয়ে শুরু করুন সহজ হবে। এরপর react এর পাওয়ারফুল হুকগুলোর মধ্যে useState, useEffect, useParam, useHistory আয়ত্ত করে ফেলেন, ধীরে ধীরে react-router,route parameter, conditional rendering, context Api, react Authentication with firebase নিয়ে কাজ করুন, এছাড়াও react-bootstrap, metarial ui নিয়ে কিছু কাজ করুন। চেষ্টা করুন ৩০ দিনের মধ্যে react নিয়ে কাজ করাটা যাতে কমফোর্ট হয়।
+
+3. NODE, EXPRESS, MONGODB
+Backend এ শেখার অনেক কিছু রয়েছে। কিন্তু এখনই সব নিয়ে চিন্তা করার দরকার নাই।
+
+প্রথমে Node,express, mongo কে কম্বিনেশন করে একটা ফুলস্টেক ওয়েবসাইট বানাতে যতটুকু দরকার ঐটুকু শিখতে হবে। এরপর যখন confidence বেড়ে যাবে তখন ডিটেইলস শেখা যাবে। Node module, Node file system, নিজে module তৈরি করা, সেই module export, import করে কাজ করা, http module,server তৈরি করা। এরপর express এর routing,middleware নিয়ে কাজ করবে ন https://expressjs.com/
+
+এখনই advance কিছু জানা দরকার নাই mongodb কে এর সাথে connect করে কাজ করতে থাকেন।
+এটা হচ্ছে আপনার স্টোর সোজা বাংলায় গুদামঘর ধরে নিন। mongo তে আপনি ডাটা পাঠিয়ে স্টোর করে রাখতে পারবেন, প্রয়োজনে ডাটা আনতে পারবেন, স্টোর থেকে আপডেট, ডিলেট সবই করতে পারবেন। প্রথমে mongodb তে cluster তৈরি করা, node এর সাথে connect করা শিখুন। এবং বিগিনার হিসেবে ৪ টা কাজ শিখুন। কিভাবে ওয়েবসাইট থেকে mongo তে ডাটা সেন্ড করবেন, সেখান থেকে ডাটা নিয়ে আসবেন, ডাটা কিভাবে আপডেট করবেন এবং ডাটা ডিলেট করা শিখেন
+
+https://www.w3schools.com/.../nodejs_mongodb_create_db.asp
+
+back-end এর ফান্ডামেন্টাল কনসেপ্টগুলো ক্লিয়ার করে সেগুলো প্রোজেক্টে ইমপ্লিমেন্ট করা শুরু করুন। back-end এ এখন ৪৫ দিনের মতো সময় দিন। 
+
+4. GITHUB, VS CODE, HEROKU, NETLIFY
+
+
